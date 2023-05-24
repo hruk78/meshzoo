@@ -1,3 +1,7 @@
+<p align="center">
+  <a href=""><img alt="smoothfit" src="figs/meshzoo-logo.svg" width="60%"></a>
+</p>
+
 # meshzoo
 
 [![PyPi Version](https://img.shields.io/pypi/v/meshzoo.svg?style=flat-square)](https://pypi.org/project/meshzoo/)
